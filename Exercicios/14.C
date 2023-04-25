@@ -1,8 +1,8 @@
 /*14. Voce esta coordenando um processo seletivo para admiss˜ao de alunos em uma escola e precisa
-cadastrar os dados dos candidatos. Para isso, vocˆe ir´a construir um programa que armazene o
+cadastrar os dados dos candidatos. Para isso, você irá construir um programa que armazene o
 nome, idade e cidade onde reside cada candidato. Armazene essas informa¸c˜oes em uma estrutura de dados 
-e utilize aloca¸c˜ao dinˆamica de mem´oria para inserir cada candidato informado pelo usu´ario.
-O usuário é quem deverá informar a quantidade de candidatos.Dica: struct + vetor dinˆamico*/
+e utilize alocação dinâmica de memória para inserir cada candidato informado pelo usu´ario.
+O usuário é quem deverá informar a quantidade de candidatos.Dica: struct + vetor dinâmico*/
 #include <stdio.h>
 #include <stdlib.h>
 
